@@ -1,0 +1,7 @@
+nest g 
+  - controller ?type pf class to generate
+    - messages/messages ?place the file in the messages folder/call the class 'messages'
+      - --flat ?dont create and extra folder called 'controllers'
+
+
+
