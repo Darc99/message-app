@@ -1,3 +1,11 @@
+Pipe - Validate data contained in the request
+|
+MessagesController - Route the request to the particular function
+|
+MessageService - Run some business logic
+MessageRepository - Access a database
+             
+
 nest g 
   - controller ?type pf class to generate
     - messages/messages ?place the file in the messages folder/call the class 'messages'
