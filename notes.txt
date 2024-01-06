@@ -5,3 +5,4 @@ nest g
 
 
 
+Read up on class-transdormer and class-validator
